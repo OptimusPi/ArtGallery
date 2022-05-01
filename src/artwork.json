@@ -1,0 +1,79 @@
+{   
+    "art": [
+        {
+            "title": "Springtime Flowers",
+            "artist": "Evie Howard",
+            "img": "springtime_flowers.jpeg"
+        },
+        {
+            "title": "Beach Time",
+            "artist": "Evie Howard",
+            "img": "beach_time.jpeg"
+        },
+        {
+            "title": "E is for Evie",
+            "artist": "Evie Howard",
+            "img": "e_is_for_evie.jpeg"
+        },
+        {
+            "title": "Tree Practice",
+            "artist": "Evie Howard",
+            "img": "tree_practice.jpeg"
+        },
+        {
+            "title": "Valley Time",
+            "artist": "Evie Howard",
+            "img": "valley_time.jpeg"
+        },
+        {
+            "title": "Lavender Sunset",
+            "artist": "Evie Howard",
+            "img": "lavender_sunset.jpeg"
+        },
+        {
+            "title": "Emerald Void",
+            "artist": "Nate Howard",
+            "img": "emerald_void.jpeg"
+        },
+        {
+            "title": "Golden Shores",
+            "artist": "Nate Howard",
+            "img": "golden_shores.jpeg"
+        },
+        {
+            "title": "Melancholy Mistakes",
+            "artist": "Nate Howard",
+            "img": "melancholy_mistakes.jpeg"
+        },
+        {
+            "title": "Omni Scales",
+            "artist": "Nate Howard",
+            "img": "omni_scales.jpeg"
+        },
+        {
+            "title": "Oyster Joy",
+            "artist": "Nate Howard",
+            "img": "oyster_joy.jpeg"
+        },
+        {
+            "title": "Senseless Treasures",
+            "artist": "Nate Howard",
+            "img": "senseless_treasures.jpeg"
+        },
+        {
+            "title": "Toxic Wavelength",
+            "artist": "Nate Howard",
+            "img": "toxic_wavelength.jpeg"
+        },
+        {
+            "title": "Vapor Galaxy",
+            "artist": "Nate Howard",
+            "img": "vapor_galaxy.jpeg"
+        },
+        {
+            "title": "Mini Series",
+            "artist": "Evie Howard & Nate Howard",
+            "img": "mini_series.jpeg"
+        }
+    ]
+}
