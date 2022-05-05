@@ -8,6 +8,7 @@ body {
   background-image: url('./pi-fractal-background.gif');
   background-repeat: repeat;
   background-position: absolute;
+  cursor: url('./pi-cursor-xl.png'),auto;
 }
 
 code {
