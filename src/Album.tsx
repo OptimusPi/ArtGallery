@@ -67,10 +67,10 @@ export default function Album() {
               justifyContent="center"
             >
               <Button onClick={() => setArtist('Nate Howard')} variant={artist == 'Nate Howard' ? "contained" : "outlined"}>
-                <Avatar alt="Remy Sharp" src="/nate.jpeg" /> &nbsp; Nate Howard
+                <Avatar alt="Picture of Nate Howard the painting artist" src="/nate.jpeg" /> &nbsp; Nate Howard
               </Button>
               <Button onClick={() => setArtist('Evie Howard')} variant={artist == 'Evie Howard' ? "contained" : "outlined"}>
-              <Avatar alt="Remy Sharp" src="/evie.jpeg" /> &nbsp; Evie Howard
+              <Avatar alt="Picture of Evie Howard the painting artist" src="/evie.jpeg" /> &nbsp; Evie Howard
               </Button>
             </Stack>
           </Container>
@@ -96,7 +96,7 @@ export default function Album() {
                       {art.title}
                     </Typography>
                     <Typography>
-                      ©{art.artist} 2022
+                      ©{art.artist} {art.year}
                     </Typography>
                   </CardContent>
                 </Card>
