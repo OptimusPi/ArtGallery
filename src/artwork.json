@@ -1,79 +1,124 @@
 {   
     "art": [
         {
+            "title": "Gold Foam",
+            "artist": "Nate Howard",
+            "img": "Gold_Foam.jpeg",
+            "year": "2022"
+        },
+        {
+            "title": "Pure Sacrifice",
+            "artist": "Nate Howard",
+            "img": "Pure_Sacrifice.jpeg",
+            "year": "2022"
+        },
+        {
+            "title": "Oceanic Implosion",
+            "artist": "Nate Howard",
+            "img": "Oceanic_Implosion.jpeg",
+            "year": "2022"
+        },
+        {
+            "title": "Jungle Jade",
+            "artist": "Nate Howard",
+            "img": "Jungle_Jade.jpeg",
+            "year": "2022"
+        },
+        {
+            "title": "Royal Win",
+            "artist": "Nate Howard",
+            "img": "Royal Winner.jpeg",
+            "year": "2022"
+        },
+        {
             "title": "Springtime Flowers",
             "artist": "Evie Howard",
-            "img": "springtime_flowers.jpeg"
+            "img": "springtime_flowers.jpeg",
+            "year": "2022"
         },
         {
             "title": "Beach Time",
             "artist": "Evie Howard",
-            "img": "beach_time.jpeg"
+            "img": "beach_time.jpeg",
+            "year": "2022"
         },
         {
             "title": "E is for Evie",
             "artist": "Evie Howard",
-            "img": "e_is_for_evie.jpeg"
+            "img": "e_is_for_evie.jpeg",
+            "year": "2022"
         },
         {
             "title": "Tree Practice",
             "artist": "Evie Howard",
-            "img": "tree_practice.jpeg"
+            "img": "tree_practice.jpeg",
+            "year": "2022"
         },
         {
             "title": "Valley Time",
             "artist": "Evie Howard",
-            "img": "valley_time.jpeg"
+            "img": "valley_time.jpeg",
+            "year": "2022"
         },
         {
             "title": "Lavender Sunset",
             "artist": "Evie Howard",
-            "img": "lavender_sunset.jpeg"
+            "img": "lavender_sunset.jpeg",
+            "year": "2022"
         },
         {
             "title": "Emerald Void",
             "artist": "Nate Howard",
-            "img": "emerald_void.jpeg"
+            "img": "emerald_void.jpeg",
+            "year": "2022"
         },
         {
             "title": "Golden Shores",
             "artist": "Nate Howard",
-            "img": "golden_shores.jpeg"
+            "img": "golden_shores.jpeg",
+            "year": "2022"
         },
         {
             "title": "Melancholy Mistakes",
             "artist": "Nate Howard",
-            "img": "melancholy_mistakes.jpeg"
+            "img": "melancholy_mistakes.jpeg",
+            "year": "2022"
         },
         {
             "title": "Omni Scales",
             "artist": "Nate Howard",
-            "img": "omni_scales.jpeg"
+            "img": "omni_scales.jpeg",
+            "year": "2022"
         },
         {
             "title": "Oyster Joy",
             "artist": "Nate Howard",
-            "img": "oyster_joy.jpeg"
+            "img": "oyster_joy.jpeg",
+            "year": "2022"
         },
         {
             "title": "Senseless Treasures",
             "artist": "Nate Howard",
-            "img": "senseless_treasures.jpeg"
+            "img": "senseless_treasures.jpeg",
+            "year": "2022"
         },
         {
             "title": "Toxic Wavelength",
             "artist": "Nate Howard",
-            "img": "toxic_wavelength.jpeg"
+            "img": "toxic_wavelength.jpeg",
+            "year": "2022"
         },
         {
             "title": "Vapor Galaxy",
             "artist": "Nate Howard",
-            "img": "vapor_galaxy.jpeg"
+            "img": "vapor_galaxy.jpeg",
+            "year": "2022"
         },
         {
             "title": "Mini Series",
             "artist": "Evie Howard & Nate Howard",
-            "img": "mini_series.jpeg"
+            "img": "mini_series.jpeg",
+            "year": "2022"
         }
     ]
 }
